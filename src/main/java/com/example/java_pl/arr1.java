@@ -15,7 +15,7 @@ public class arr1 {
 
 
         for(int i=0;i< array.length;i++){
-            System.out.println(STR."Enter the  array num\{i}");
+            System.out.println("Enter the  array num ");
             array[i]= scan.nextInt();
         }
 
